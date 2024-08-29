@@ -8,7 +8,7 @@
         "map:generate": "npx tsx src/tools/generate-map/generate-map.ts",
         "build": "tsup",
         "change": "changeset",
-        "release": "npm build && npm publish"
+        "release": "npm run build && npm publish"
     },
     "repository": {
         "type": "git",
