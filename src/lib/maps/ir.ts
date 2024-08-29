@@ -1,0 +1,20 @@
+export const IR = {
+      "ae": "IR",
+      "arc": "IR",
+      "'az-Arab'": "IR",
+      "bqi": "IR",
+      "fa": "IR",
+      "gbz": "IR",
+      "glk": "IR",
+      "lki": "IR",
+      "lrc": "IR",
+      "luz": "IR",
+      "myz": "IR",
+      "mzn": "IR",
+      "pal": "IR",
+      "peo": "IR",
+      "prd": "IR",
+      "rmt": "IR",
+      "sdh": "IR",
+      "xpr": "IR"
+    };

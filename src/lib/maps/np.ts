@@ -1,0 +1,23 @@
+export const NP = {
+      "bap": "NP",
+      "dty": "NP",
+      "ggn": "NP",
+      "gvr": "NP",
+      "jml": "NP",
+      "lif": "NP",
+      "mgp": "NP",
+      "mrd": "NP",
+      "ne": "NP",
+      "new": "NP",
+      "rjs": "NP",
+      "taj": "NP",
+      "tdg": "NP",
+      "tdh": "NP",
+      "thl": "NP",
+      "thq": "NP",
+      "thr": "NP",
+      "tkt": "NP",
+      "tsf": "NP",
+      "'unr-Deva'": "NP",
+      "xsr": "NP"
+    };

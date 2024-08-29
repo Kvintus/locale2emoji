@@ -1,0 +1,46 @@
+{
+    "name": "locale2emoji",
+    "version": "0.0.0",
+    "description": "Get emoji flags by locale code",
+    "scripts": {
+        "test": "jest",
+        "lint": "eslint . --fix",
+        "map:generate": "npx tsx src/tools/generate-map/generate-map.ts",
+        "build": "tsup",
+        "change": "changeset"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Kvintus/locale2emoji.git"
+    },
+    "keywords": [
+        "emoji",
+        "flag",
+        "locale",
+        "country",
+        "code"
+    ],
+    "author": "Kvintus",
+    "bugs": {
+        "url": "https://github.com/Kvintus/locale2emoji/issues"
+    },
+    "homepage": "https://github.com/Kvintus/locale2emoji#readme",
+    "devDependencies": {
+        "@changesets/cli": "^2.27.7",
+        "@eslint/js": "^9.9.1",
+        "@stylistic/eslint-plugin": "^2.7.1",
+        "@types/jest": "^29.5.12",
+        "@types/node": "^22.5.1",
+        "cldr-core": "^31.0.1",
+        "eslint": "^9.9.1",
+        "globals": "^15.9.0",
+        "jest": "^29.7.0",
+        "ts-jest": "^29.2.5",
+        "ts-morph": "^23.0.0",
+        "ts-node": "^10.9.2",
+        "tslog": "^4.9.3",
+        "tsup": "^8.2.4",
+        "typescript": "^5.5.4",
+        "typescript-eslint": "^8.3.0"
+    }
+}
