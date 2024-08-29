@@ -1,6 +1,6 @@
 {
     "name": "locale2emoji",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Get emoji flags by locale code",
     "scripts": {
         "test": "jest",
