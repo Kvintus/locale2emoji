@@ -1,5 +1,11 @@
 # locale2emoji
 
+## 1.1.1
+
+### Patch Changes
+
+- bbdf041: Expose only files in the dist folder
+
 ## 1.1.0
 
 ### Minor Changes
