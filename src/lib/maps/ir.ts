@@ -1,7 +1,7 @@
 export const IR = {
       "ae": "IR",
       "arc": "IR",
-      "'az-Arab'": "IR",
+      "az-Arab": "IR",
       "bqi": "IR",
       "fa": "IR",
       "gbz": "IR",

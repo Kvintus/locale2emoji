@@ -1,3 +1,3 @@
 export const JO = {
-      "'arc-Nbat'": "JO"
+      "arc-Nbat": "JO"
     };

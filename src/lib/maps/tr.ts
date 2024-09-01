@@ -3,7 +3,7 @@ export const TR = {
       "hlu": "TR",
       "kiu": "TR",
       "ku": "TR",
-      "'ky-Latn'": "TR",
+      "ky-Latn": "TR",
       "lzz": "TR",
       "tr": "TR",
       "tru": "TR",
