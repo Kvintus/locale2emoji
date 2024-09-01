@@ -18,6 +18,6 @@ export const NP = {
       "thr": "NP",
       "tkt": "NP",
       "tsf": "NP",
-      "'unr-Deva'": "NP",
+      "unr-Deva": "NP",
       "xsr": "NP"
     };

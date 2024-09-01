@@ -1,4 +1,4 @@
 export const KZ = {
       "kk": "KZ",
-      "'ug-Cyrl'": "KZ"
+      "ug-Cyrl": "KZ"
     };

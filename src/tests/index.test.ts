@@ -6,6 +6,7 @@ describe('getFlagEmoji', function () {
         'de-DE': '🇩🇪',
         'de_DE': '🇩🇪',
         'de-CH': '🇨🇭',
+        'de-NOTEXIST': '🇩🇪',
         'en': '🇺🇸',
         'EN': '🇺🇸',
         'en-GB': '🇬🇧',
@@ -16,6 +17,11 @@ describe('getFlagEmoji', function () {
         'pt': '🇧🇷',
         'sk_Latin_SK': '🇸🇰',
         'eo': '',
+        'zh-Bopo': '🇹🇼',
+        'az-Arab': '🇮🇷',
+        'zh-Hant': '🇹🇼',
+        'zh-Hans': '🇨🇳',
+        'zh-TW': '🇹🇼'
     }
 
     Object.keys(tests).forEach(function (from) {

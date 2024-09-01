@@ -1,4 +1,4 @@
 export const SY = {
-      "'arc-Palm'": "SY",
+      "arc-Palm": "SY",
       "uga": "SY"
     };

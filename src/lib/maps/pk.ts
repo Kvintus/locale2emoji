@@ -13,10 +13,10 @@ export const PK = {
       "kxp": "PK",
       "lah": "PK",
       "mvy": "PK",
-      "'pa-Arab'": "PK",
+      "pa-Arab": "PK",
       "pra": "PK",
       "sd": "PK",
       "skr": "PK",
-      "'tg-Arab'": "PK",
+      "tg-Arab": "PK",
       "ur": "PK"
     };
